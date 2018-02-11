@@ -21,7 +21,7 @@ This is my personal 3d printer that I built starting in 2013 and finishing in 20
 
 ![alt text](https://haqnmaq.github.io/assets/img/haqbot_1.jpg "Haqbot Top View")
 
-  This photo is after further assembly of the electronics and extruder. The LCD control panel is now mounted and ready for the rest of the electronics to be installed.
+  This photo is after further assembly of the electronics and extruder. The LCD control panel is now mounted and ready for the rest of the electronics to be installed. The Makerbot Cupcake CNC can be seen in the back left.
 
 ![alt text](https://haqnmaq.github.io/assets/img/haqbot_2.jpg "Haqbot Front View")
 
