@@ -1,6 +1,5 @@
 ---
 layout: misc
-title: About
+title: About Me
 ---
-
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+ My name is Ryan Branch. I'm an autodidact and I have a range of different skills. I have experience in electronics and PCB layout, various CAD tools, different additive manufacturing technologies, mechanical design, model making, some machining, and everything in between. I have researched various manufacturing technologies as well as some of their limitations to design with manufacturing in mind. I have a passion for solving complex problems and thinking of new uses for existing technologies. While I lack a conventional college degree, I feel that my approach of "learning by doing" has given me an advantage by learning a broader range skills, instead of focusing on one specific discipline. That does however make it harder for anyone who want's to know my abilities which is why I have created this portfolio of some of my projects over the past 4 or 5 years. I have been tinkering, designing, and creating things for as long as I can remember, however I didn't start documenting my projects until more recently. This website serves as an example of some of my work.
