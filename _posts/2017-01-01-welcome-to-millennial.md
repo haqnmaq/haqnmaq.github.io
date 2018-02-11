@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: haqbot.jpg
 ---
 
-This is my personal 3d printer that I built starting in 2013 and finishing in 2014. My username on many different forums is "haqnmaq" pronounced "hack n make", so I figured I had to call it "Haqbot".
+This is my personal 3d printer that I built starting in 2013 and finishing in 2014. My username/handle is "haqnmaq" pronounced "hack n make", so "Haqbot" seemed fitting.
 
 ### Build
 
