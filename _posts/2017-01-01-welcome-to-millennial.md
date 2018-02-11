@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "HAQBOT (3D Printer Build)"
+author: "Ryan Branch"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: haqbot.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+This is my personal 3d printer that I built starting in 2013. My username on many different forums is "haqnmaq" pronounced "hack n make", so I figured I had to call it "Haqbot".
 
 ### Getting Started
 
