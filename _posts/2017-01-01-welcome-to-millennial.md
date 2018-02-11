@@ -13,7 +13,7 @@ This is my personal 3d printer that I built starting in 2013 and finishing in 20
 
 I originally started the designing and building of this 3d printer in 2013. Do to financial limitations it took me about 5 months to complete. I wanted to design a printer that was unique, robust, fast, accurate, while being astheticaly pleasing as well. To accomplish this I decided on some unique H-Bot style kinematics. This was a unique concept at the time and allowed for very fast movements of the hot end. I eventually did change this to use a Core X-Y setup. It has the same kinematics as an H-Bot, but the unique belt path eliminated the racking forces seen with an H-bot configuration.
 
-![alt text](https://user-images.githubusercontent.com/8409329/haqbot_1.jpg "Millennial Demo Image")
+![alt text](https://haqnmaq.github.io/assets/img/haqbot_1.jpg "Millennial Demo Image")
 
 ### Example Content
 
